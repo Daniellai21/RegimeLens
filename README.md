@@ -30,13 +30,14 @@ bearish, sideways) and applying a strategy suited to each condition.
 ## Roadmap
 
 - [x] Project structure initialised
-- [ ] Data pipeline
-- [ ] Feature engineering
-- [ ] HMM regime detection
+- [x] Data pipeline
+- [x] Feature engineering
+- [x] HMM regime detection
 - [ ] Strategy logic and backtesting
 - [ ] Performance metrics
 - [ ] FastAPI layer
 - [ ] React dashboard
+- [ ] Docker containerisation
 
 ## Installation
 

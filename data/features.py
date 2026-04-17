@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from fetch_data import get_ticker_data 
+from data.fetch_data import get_ticker_data 
 
 def engineer_features(df):
     """
